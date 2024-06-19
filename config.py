@@ -1,5 +1,5 @@
 class Config:
-    PAGE_TITLE = "Llama3 Chatbot - Disha Himani"
+    PAGE_TITLE = "Chat-Wiz !"
 
     OLLAMA_MODELS = ('llama3')
 
